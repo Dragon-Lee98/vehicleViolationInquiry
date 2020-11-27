@@ -1,0 +1,19 @@
+*{margin: 0;padding: 0;}
+body,html{
+	background-color: #fff;
+}
+/* 底部tab样式 */
+.tabbar{
+	padding-bottom: 0.6rem;
+}
+.mui-bar{
+	background-color: #fff !important;
+}
+.mui-bar-tab .mui-tab-item.mui-active {
+    color: #FF6623 !important;
+}
+.mui-tab-label{
+	font-size: 12px !important;
+	font-weight: bold;
+}
+/* 底部tab样式 end*/
